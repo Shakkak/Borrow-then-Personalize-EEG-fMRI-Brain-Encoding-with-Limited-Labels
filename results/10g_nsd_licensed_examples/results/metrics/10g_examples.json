@@ -1,0 +1,1010 @@
+{
+ "177": {
+  "seen": {
+   "pos": 177,
+   "nsd_id": 16841,
+   "coco_id": 566261,
+   "split": "train2017",
+   "licence": "Attribution License",
+   "coco_url": "http://images.cocodataset.org/train2017/000000566261.jpg",
+   "flickr_url": "http://farm8.staticflickr.com/7074/6889990906_e085fdd85d_z.jpg",
+   "caption": "A group of men riding on the back of motorcycles."
+  },
+  "avg": [
+   {
+    "pos": 177,
+    "nsd_id": 16841,
+    "coco_id": 566261,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000566261.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7074/6889990906_e085fdd85d_z.jpg",
+    "caption": "A group of men riding on the back of motorcycles."
+   },
+   {
+    "pos": 435,
+    "nsd_id": 37436,
+    "coco_id": 150636,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000150636.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8477/8188612358_894a426c2f_z.jpg",
+    "caption": "A courtyard leads out to the street and a bridge."
+   },
+   {
+    "pos": 40,
+    "nsd_id": 5204,
+    "coco_id": 6765,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000006765.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2828/9574843130_7dfd352c71_z.jpg",
+    "caption": "A train is going down the tracks on a mountainside."
+   },
+   {
+    "pos": 750,
+    "nsd_id": 62006,
+    "coco_id": 122923,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000122923.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5300/5473707984_e20e7f6a1c_z.jpg",
+    "caption": "A large steel boat floating on top of water."
+   },
+   {
+    "pos": 291,
+    "nsd_id": 25588,
+    "coco_id": 333654,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000333654.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5453/9735098234_fda4b258b9_z.jpg",
+    "caption": "Busy road in the middle of a very large scale city."
+   }
+  ],
+  "stack": [
+   {
+    "pos": 177,
+    "nsd_id": 16841,
+    "coco_id": 566261,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000566261.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7074/6889990906_e085fdd85d_z.jpg",
+    "caption": "A group of men riding on the back of motorcycles."
+   },
+   {
+    "pos": 40,
+    "nsd_id": 5204,
+    "coco_id": 6765,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000006765.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2828/9574843130_7dfd352c71_z.jpg",
+    "caption": "A train is going down the tracks on a mountainside."
+   },
+   {
+    "pos": 179,
+    "nsd_id": 17048,
+    "coco_id": 42578,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000042578.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4011/4638025825_d967b95f3e_z.jpg",
+    "caption": "An empty city street with traffic lights, fence and construction items on the side."
+   },
+   {
+    "pos": 276,
+    "nsd_id": 24846,
+    "coco_id": 68623,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000068623.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7246/8151330387_f760c7b5c1_z.jpg",
+    "caption": "A herd of elephants walking along a dry grass field."
+   },
+   {
+    "pos": 752,
+    "nsd_id": 62209,
+    "coco_id": 213988,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000213988.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3328/4620103690_fd48447b78_z.jpg",
+    "caption": "A boardwalk with benches and a French fry stand."
+   }
+  ],
+  "mixed": [
+   {
+    "pos": 177,
+    "nsd_id": 16841,
+    "coco_id": 566261,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000566261.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7074/6889990906_e085fdd85d_z.jpg",
+    "caption": "A group of men riding on the back of motorcycles."
+   },
+   {
+    "pos": 179,
+    "nsd_id": 17048,
+    "coco_id": 42578,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000042578.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4011/4638025825_d967b95f3e_z.jpg",
+    "caption": "An empty city street with traffic lights, fence and construction items on the side."
+   },
+   {
+    "pos": 276,
+    "nsd_id": 24846,
+    "coco_id": 68623,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000068623.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7246/8151330387_f760c7b5c1_z.jpg",
+    "caption": "A herd of elephants walking along a dry grass field."
+   },
+   {
+    "pos": 40,
+    "nsd_id": 5204,
+    "coco_id": 6765,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000006765.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2828/9574843130_7dfd352c71_z.jpg",
+    "caption": "A train is going down the tracks on a mountainside."
+   },
+   {
+    "pos": 435,
+    "nsd_id": 37436,
+    "coco_id": 150636,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000150636.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8477/8188612358_894a426c2f_z.jpg",
+    "caption": "A courtyard leads out to the street and a bridge."
+   }
+  ]
+ },
+ "345": {
+  "seen": {
+   "pos": 345,
+   "nsd_id": 29021,
+   "coco_id": 346795,
+   "split": "train2017",
+   "licence": "Attribution License",
+   "coco_url": "http://images.cocodataset.org/train2017/000000346795.jpg",
+   "flickr_url": "http://farm6.staticflickr.com/5098/5506100632_de68df6a29_z.jpg",
+   "caption": "three people on skis pose on a snowy hill"
+  },
+  "avg": [
+   {
+    "pos": 345,
+    "nsd_id": 29021,
+    "coco_id": 346795,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000346795.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5098/5506100632_de68df6a29_z.jpg",
+    "caption": "three people on skis pose on a snowy hill"
+   },
+   {
+    "pos": 244,
+    "nsd_id": 22587,
+    "coco_id": 322255,
+    "split": "train2017",
+    "licence": "Attribution-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000322255.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4126/4982960820_d860bdd13b_z.jpg",
+    "caption": "A boy is jumping in the air on his skateboard."
+   },
+   {
+    "pos": 672,
+    "nsd_id": 55678,
+    "coco_id": 450903,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000450903.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3305/4605667520_f63b4c4090_z.jpg",
+    "caption": "The base ball pitcher is pitching the ball."
+   },
+   {
+    "pos": 663,
+    "nsd_id": 54959,
+    "coco_id": 55764,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000055764.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2858/9238596352_2290b2f421_z.jpg",
+    "caption": "A player at bat in a baseball game in action."
+   },
+   {
+    "pos": 176,
+    "nsd_id": 16823,
+    "coco_id": 566201,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000566201.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8524/8517181923_7afd262956_z.jpg",
+    "caption": "A group of people with ski gear walk over snowy weather."
+   }
+  ],
+  "stack": [
+   {
+    "pos": 44,
+    "nsd_id": 5542,
+    "coco_id": 7932,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000007932.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2066/2461594061_18c66d0505_z.jpg",
+    "caption": "A woman playing tennis on an asphalt court."
+   },
+   {
+    "pos": 345,
+    "nsd_id": 29021,
+    "coco_id": 346795,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000346795.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5098/5506100632_de68df6a29_z.jpg",
+    "caption": "three people on skis pose on a snowy hill"
+   },
+   {
+    "pos": 700,
+    "nsd_id": 57542,
+    "coco_id": 338501,
+    "split": "train2017",
+    "licence": "Attribution-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000338501.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3599/3617667321_c611c3b90a_z.jpg",
+    "caption": "A baseball player pitching a ball on a field."
+   },
+   {
+    "pos": 99,
+    "nsd_id": 9847,
+    "coco_id": 571485,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000571485.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4083/5037552789_765ea6b3b5_z.jpg",
+    "caption": "a person riding a surf board on a wave"
+   },
+   {
+    "pos": 855,
+    "nsd_id": 71232,
+    "coco_id": 511127,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511127.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5165/5368507028_5eff97a070_z.jpg",
+    "caption": "A group `of skiers standing at the bottom of the slope"
+   }
+  ],
+  "mixed": [
+   {
+    "pos": 345,
+    "nsd_id": 29021,
+    "coco_id": 346795,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000346795.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5098/5506100632_de68df6a29_z.jpg",
+    "caption": "three people on skis pose on a snowy hill"
+   },
+   {
+    "pos": 44,
+    "nsd_id": 5542,
+    "coco_id": 7932,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000007932.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2066/2461594061_18c66d0505_z.jpg",
+    "caption": "A woman playing tennis on an asphalt court."
+   },
+   {
+    "pos": 672,
+    "nsd_id": 55678,
+    "coco_id": 450903,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000450903.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3305/4605667520_f63b4c4090_z.jpg",
+    "caption": "The base ball pitcher is pitching the ball."
+   },
+   {
+    "pos": 525,
+    "nsd_id": 43984,
+    "coco_id": 142803,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000142803.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4150/4990813682_1f528ebdef_z.jpg",
+    "caption": "Baseball player about to fall that during the game"
+   },
+   {
+    "pos": 855,
+    "nsd_id": 71232,
+    "coco_id": 511127,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511127.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5165/5368507028_5eff97a070_z.jpg",
+    "caption": "A group `of skiers standing at the bottom of the slope"
+   }
+  ]
+ },
+ "599": {
+  "seen": {
+   "pos": 599,
+   "nsd_id": 49731,
+   "coco_id": 427729,
+   "split": "train2017",
+   "licence": "Attribution License",
+   "coco_url": "http://images.cocodataset.org/train2017/000000427729.jpg",
+   "flickr_url": "http://farm6.staticflickr.com/5451/9579548614_ebd1680345_z.jpg",
+   "caption": "Three brown cows grazing in field with trees in background."
+  },
+  "avg": [
+   {
+    "pos": 344,
+    "nsd_id": 28898,
+    "coco_id": 84174,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000084174.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7422/9565584205_352d1ecba7_z.jpg",
+    "caption": "A baseball player swinging a bat while standing next to home plate."
+   },
+   {
+    "pos": 416,
+    "nsd_id": 35790,
+    "coco_id": 110780,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000110780.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5446/8981781669_19810f443d_z.jpg",
+    "caption": "A man riding a surfboard along a wave."
+   },
+   {
+    "pos": 599,
+    "nsd_id": 49731,
+    "coco_id": 427729,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000427729.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5451/9579548614_ebd1680345_z.jpg",
+    "caption": "Three brown cows grazing in field with trees in background."
+   },
+   {
+    "pos": 558,
+    "nsd_id": 46321,
+    "coco_id": 414176,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000414176.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3774/9617657990_61c66fb3c9_z.jpg",
+    "caption": "A couple of birds swimming across a body of water."
+   },
+   {
+    "pos": 736,
+    "nsd_id": 60867,
+    "coco_id": 208849,
+    "split": "train2017",
+    "licence": "Attribution-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000208849.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3629/3552648801_5ea36bf18f_z.jpg",
+    "caption": "A small dog is looking in the mirror of the car."
+   }
+  ],
+  "stack": [
+   {
+    "pos": 599,
+    "nsd_id": 49731,
+    "coco_id": 427729,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000427729.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5451/9579548614_ebd1680345_z.jpg",
+    "caption": "Three brown cows grazing in field with trees in background."
+   },
+   {
+    "pos": 387,
+    "nsd_id": 32771,
+    "coco_id": 361193,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000361193.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4088/4961503789_c6772606c9_z.jpg",
+    "caption": "A zebra eating grass in front of some small bushes."
+   },
+   {
+    "pos": 501,
+    "nsd_id": 42697,
+    "coco_id": 399984,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000399984.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7221/7330616576_faa8b13672_z.jpg",
+    "caption": "Two brown bears on a rock wall next to a tree."
+   },
+   {
+    "pos": 344,
+    "nsd_id": 28898,
+    "coco_id": 84174,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000084174.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7422/9565584205_352d1ecba7_z.jpg",
+    "caption": "A baseball player swinging a bat while standing next to home plate."
+   },
+   {
+    "pos": 149,
+    "nsd_id": 14179,
+    "coco_id": 33764,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000033764.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7072/7165539512_9280651b7b_z.jpg",
+    "caption": "Players attempt to block a pass n a frosbee game."
+   }
+  ],
+  "mixed": [
+   {
+    "pos": 599,
+    "nsd_id": 49731,
+    "coco_id": 427729,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000427729.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5451/9579548614_ebd1680345_z.jpg",
+    "caption": "Three brown cows grazing in field with trees in background."
+   },
+   {
+    "pos": 195,
+    "nsd_id": 18483,
+    "coco_id": 309135,
+    "split": "train2017",
+    "licence": "Attribution-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000309135.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2479/5846575128_a9f41fd171_z.jpg",
+    "caption": "A couple of zebra walking across a grass covered field."
+   },
+   {
+    "pos": 149,
+    "nsd_id": 14179,
+    "coco_id": 33764,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000033764.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7072/7165539512_9280651b7b_z.jpg",
+    "caption": "Players attempt to block a pass n a frosbee game."
+   },
+   {
+    "pos": 802,
+    "nsd_id": 66479,
+    "coco_id": 230422,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000230422.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2666/3772359736_2123b33fd5_z.jpg",
+    "caption": "there is a dog in the grass playing with a frisbee"
+   },
+   {
+    "pos": 558,
+    "nsd_id": 46321,
+    "coco_id": 414176,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000414176.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3774/9617657990_61c66fb3c9_z.jpg",
+    "caption": "A couple of birds swimming across a body of water."
+   }
+  ]
+ },
+ "605": {
+  "seen": {
+   "pos": 605,
+   "nsd_id": 50026,
+   "coco_id": 166764,
+   "split": "train2017",
+   "licence": "Attribution License",
+   "coco_url": "http://images.cocodataset.org/train2017/000000166764.jpg",
+   "flickr_url": "http://farm3.staticflickr.com/2601/3759689119_8e166fd909_z.jpg",
+   "caption": "Three young baseball players waiting at the door of a dugout."
+  },
+  "avg": [
+   {
+    "pos": 605,
+    "nsd_id": 50026,
+    "coco_id": 166764,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000166764.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2601/3759689119_8e166fd909_z.jpg",
+    "caption": "Three young baseball players waiting at the door of a dugout."
+   },
+   {
+    "pos": 287,
+    "nsd_id": 25454,
+    "coco_id": 333152,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000333152.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3214/2835961223_3c44082f6f_z.jpg",
+    "caption": "The stands full of people at a baseball game behind the hitter, catcher and umpire."
+   },
+   {
+    "pos": 663,
+    "nsd_id": 54959,
+    "coco_id": 55764,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000055764.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2858/9238596352_2290b2f421_z.jpg",
+    "caption": "A player at bat in a baseball game in action."
+   },
+   {
+    "pos": 796,
+    "nsd_id": 66216,
+    "coco_id": 491611,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000491611.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7019/6599972827_9c20eaf3db_z.jpg",
+    "caption": "Two zebras rubbing heads in a field."
+   },
+   {
+    "pos": 36,
+    "nsd_id": 4892,
+    "coco_id": 268008,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000268008.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5479/9329091267_2911bc48d0_z.jpg",
+    "caption": "A man swinging a bat on a baseball field."
+   }
+  ],
+  "stack": [
+   {
+    "pos": 605,
+    "nsd_id": 50026,
+    "coco_id": 166764,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000166764.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2601/3759689119_8e166fd909_z.jpg",
+    "caption": "Three young baseball players waiting at the door of a dugout."
+   },
+   {
+    "pos": 36,
+    "nsd_id": 4892,
+    "coco_id": 268008,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000268008.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5479/9329091267_2911bc48d0_z.jpg",
+    "caption": "A man swinging a bat on a baseball field."
+   },
+   {
+    "pos": 519,
+    "nsd_id": 43689,
+    "coco_id": 403789,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000403789.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8508/8499722485_3807a957f0_z.jpg",
+    "caption": "Woman sitting on a horse walking on gravel."
+   },
+   {
+    "pos": 141,
+    "nsd_id": 13613,
+    "coco_id": 32134,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000032134.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3637/3464798914_cd90be9c5f_z.jpg",
+    "caption": "a woman holding a racquet on a tennis court."
+   },
+   {
+    "pos": 535,
+    "nsd_id": 44720,
+    "coco_id": 461187,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000461187.jpg",
+    "flickr_url": "http://farm1.staticflickr.com/186/446784345_b4a50ef86b_z.jpg",
+    "caption": "A young man sits on a bench talking on a cell phone."
+   }
+  ],
+  "mixed": [
+   {
+    "pos": 605,
+    "nsd_id": 50026,
+    "coco_id": 166764,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000166764.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2601/3759689119_8e166fd909_z.jpg",
+    "caption": "Three young baseball players waiting at the door of a dugout."
+   },
+   {
+    "pos": 368,
+    "nsd_id": 31028,
+    "coco_id": 92221,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000092221.jpg",
+    "flickr_url": "http://farm1.staticflickr.com/54/126178125_59e2bc5283_z.jpg",
+    "caption": "A woman sitting on a wooden bench talking on a phone."
+   },
+   {
+    "pos": 800,
+    "nsd_id": 66421,
+    "coco_id": 38370,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000038370.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3674/9648742253_4c8765d67e_z.jpg",
+    "caption": "The kids are sitting and eating around a table."
+   },
+   {
+    "pos": 319,
+    "nsd_id": 27326,
+    "coco_id": 340317,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000340317.jpg",
+    "flickr_url": "http://farm4.staticflickr.com/3330/3484155003_10e09a45b0_z.jpg",
+    "caption": "Two children are looking at a fire hydrant."
+   },
+   {
+    "pos": 218,
+    "nsd_id": 20738,
+    "coco_id": 53778,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000053778.jpg",
+    "flickr_url": "http://farm5.staticflickr.com/4106/5127610060_9f71628db4_z.jpg",
+    "caption": "A couple long horned cows laying on top of hay."
+   }
+  ]
+ },
+ "751": {
+  "seen": {
+   "pos": 751,
+   "nsd_id": 62015,
+   "coco_id": 213288,
+   "split": "train2017",
+   "licence": "Attribution License",
+   "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+   "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+   "caption": "A counter lined with lots of wooden stools."
+  },
+  "avg": [
+   {
+    "pos": 751,
+    "nsd_id": 62015,
+    "coco_id": 213288,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+    "caption": "A counter lined with lots of wooden stools."
+   },
+   {
+    "pos": 856,
+    "nsd_id": 71241,
+    "coco_id": 511165,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+    "caption": "A group of appliances sit in a room."
+   },
+   {
+    "pos": 404,
+    "nsd_id": 34186,
+    "coco_id": 104502,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000104502.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2824/8858158415_4eae05e0a8_z.jpg",
+    "caption": "A white bathroom with pedestal sink and small cabinet and daylight window"
+   },
+   {
+    "pos": 396,
+    "nsd_id": 33521,
+    "coco_id": 101952,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000101952.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2602/4053290416_ec162cba59_z.jpg",
+    "caption": "a room with a couple of computers inside of it"
+   },
+   {
+    "pos": 271,
+    "nsd_id": 24640,
+    "coco_id": 330086,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000330086.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5053/5543633997_637fca8c1b_z.jpg",
+    "caption": "The bathroom is all white and has no towels."
+   }
+  ],
+  "stack": [
+   {
+    "pos": 751,
+    "nsd_id": 62015,
+    "coco_id": 213288,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+    "caption": "A counter lined with lots of wooden stools."
+   },
+   {
+    "pos": 322,
+    "nsd_id": 27580,
+    "coco_id": 275335,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000275335.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5122/5333637278_6ac661fb17_z.jpg",
+    "caption": "A bathroom with a walk in shower next to a sink under a mirror."
+   },
+   {
+    "pos": 271,
+    "nsd_id": 24640,
+    "coco_id": 330086,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000330086.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5053/5543633997_637fca8c1b_z.jpg",
+    "caption": "The bathroom is all white and has no towels."
+   },
+   {
+    "pos": 851,
+    "nsd_id": 70758,
+    "coco_id": 247121,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000247121.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8033/8020373921_f3da9dc30a_z.jpg",
+    "caption": "THERE IS A BED AND A WINDWO AND TWO CHAIRS ON THE SIDE"
+   },
+   {
+    "pos": 856,
+    "nsd_id": 71241,
+    "coco_id": 511165,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+    "caption": "A group of appliances sit in a room."
+   }
+  ],
+  "mixed": [
+   {
+    "pos": 751,
+    "nsd_id": 62015,
+    "coco_id": 213288,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+    "caption": "A counter lined with lots of wooden stools."
+   },
+   {
+    "pos": 851,
+    "nsd_id": 70758,
+    "coco_id": 247121,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000247121.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8033/8020373921_f3da9dc30a_z.jpg",
+    "caption": "THERE IS A BED AND A WINDWO AND TWO CHAIRS ON THE SIDE"
+   },
+   {
+    "pos": 404,
+    "nsd_id": 34186,
+    "coco_id": 104502,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000104502.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2824/8858158415_4eae05e0a8_z.jpg",
+    "caption": "A white bathroom with pedestal sink and small cabinet and daylight window"
+   },
+   {
+    "pos": 856,
+    "nsd_id": 71241,
+    "coco_id": 511165,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+    "caption": "A group of appliances sit in a room."
+   },
+   {
+    "pos": 577,
+    "nsd_id": 47614,
+    "coco_id": 157181,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000157181.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5162/5264582639_ce4f7c3764_z.jpg",
+    "caption": "There is a bench sitting on someones front porch."
+   }
+  ]
+ },
+ "856": {
+  "seen": {
+   "pos": 856,
+   "nsd_id": 71241,
+   "coco_id": 511165,
+   "split": "train2017",
+   "licence": "Attribution License",
+   "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+   "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+   "caption": "A group of appliances sit in a room."
+  },
+  "avg": [
+   {
+    "pos": 856,
+    "nsd_id": 71241,
+    "coco_id": 511165,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+    "caption": "A group of appliances sit in a room."
+   },
+   {
+    "pos": 751,
+    "nsd_id": 62015,
+    "coco_id": 213288,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+    "caption": "A counter lined with lots of wooden stools."
+   },
+   {
+    "pos": 851,
+    "nsd_id": 70758,
+    "coco_id": 247121,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000247121.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8033/8020373921_f3da9dc30a_z.jpg",
+    "caption": "THERE IS A BED AND A WINDWO AND TWO CHAIRS ON THE SIDE"
+   },
+   {
+    "pos": 396,
+    "nsd_id": 33521,
+    "coco_id": 101952,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000101952.jpg",
+    "flickr_url": "http://farm3.staticflickr.com/2602/4053290416_ec162cba59_z.jpg",
+    "caption": "a room with a couple of computers inside of it"
+   },
+   {
+    "pos": 729,
+    "nsd_id": 60251,
+    "coco_id": 206467,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000206467.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5527/10175238236_346c9630e0_z.jpg",
+    "caption": "A train traveling down train tracks next to a train station."
+   }
+  ],
+  "stack": [
+   {
+    "pos": 856,
+    "nsd_id": 71241,
+    "coco_id": 511165,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+    "caption": "A group of appliances sit in a room."
+   },
+   {
+    "pos": 851,
+    "nsd_id": 70758,
+    "coco_id": 247121,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000247121.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8033/8020373921_f3da9dc30a_z.jpg",
+    "caption": "THERE IS A BED AND A WINDWO AND TWO CHAIRS ON THE SIDE"
+   },
+   {
+    "pos": 322,
+    "nsd_id": 27580,
+    "coco_id": 275335,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000275335.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5122/5333637278_6ac661fb17_z.jpg",
+    "caption": "A bathroom with a walk in shower next to a sink under a mirror."
+   },
+   {
+    "pos": 298,
+    "nsd_id": 25906,
+    "coco_id": 72715,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000072715.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5319/7109729555_88423a000b_z.jpg",
+    "caption": "a silver stove sits next to a counter top"
+   },
+   {
+    "pos": 271,
+    "nsd_id": 24640,
+    "coco_id": 330086,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000330086.jpg",
+    "flickr_url": "http://farm6.staticflickr.com/5053/5543633997_637fca8c1b_z.jpg",
+    "caption": "The bathroom is all white and has no towels."
+   }
+  ],
+  "mixed": [
+   {
+    "pos": 856,
+    "nsd_id": 71241,
+    "coco_id": 511165,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+    "caption": "A group of appliances sit in a room."
+   },
+   {
+    "pos": 751,
+    "nsd_id": 62015,
+    "coco_id": 213288,
+    "split": "train2017",
+    "licence": "Attribution License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+    "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+    "caption": "A counter lined with lots of wooden stools."
+   },
+   {
+    "pos": 696,
+    "nsd_id": 57046,
+    "coco_id": 194054,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-ShareAlike License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000194054.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8043/8367862114_9cacd2d784_z.jpg",
+    "caption": "A toilet with a couple of floor mats near them."
+   },
+   {
+    "pos": 851,
+    "nsd_id": 70758,
+    "coco_id": 247121,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000247121.jpg",
+    "flickr_url": "http://farm9.staticflickr.com/8033/8020373921_f3da9dc30a_z.jpg",
+    "caption": "THERE IS A BED AND A WINDWO AND TWO CHAIRS ON THE SIDE"
+   },
+   {
+    "pos": 372,
+    "nsd_id": 31233,
+    "coco_id": 59194,
+    "split": "train2017",
+    "licence": "Attribution-NonCommercial-NoDerivs License",
+    "coco_url": "http://images.cocodataset.org/train2017/000000059194.jpg",
+    "flickr_url": "http://farm2.staticflickr.com/1129/5155288464_a4d5a0b9c9_z.jpg",
+    "caption": "A living room with couches, chairs, and tables."
+   }
+  ]
+ }
+}

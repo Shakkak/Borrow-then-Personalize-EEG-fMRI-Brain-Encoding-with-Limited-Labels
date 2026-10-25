@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below, and cite the datasets you use."
+title: "Borrow, then personalize: code, prespecified protocols and result tables"
+type: software
+authors:
+  - family-names: Hosseinzadeh
+    given-names: Shakib
+    email: M.Shakib.HZ@gmail.com
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Shakkak/Borrow-then-Personalize-EEG-fMRI-Brain-Encoding-with-Limited-Labels"
+keywords:
+  - brain encoding
+  - EEG
+  - fMRI
+  - cross-subject transfer
+  - few-shot calibration
+preferred-citation:
+  type: article
+  title: "Borrow, then personalize: calibrating visual EEG and fMRI encoding models with limited labels"
+  authors:
+    - family-names: Hosseinzadeh
+      given-names: Shakib
+  year: 2026

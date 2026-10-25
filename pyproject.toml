@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cross-subject-encoding"
+version = "1.0.0"
+description = "How much of a visual brain response can be borrowed from other people, and which part?"
+requires-python = ">=3.10"
+# Light dependencies only: torch, transformers and the like come from the Kaggle image or the Docker image,
+# so installing this package never replaces them (see requirements.txt for the full environment).
+dependencies = ["numpy", "pandas", "scipy", "scikit-learn", "matplotlib"]
+
+[project.optional-dependencies]
+test = ["pytest"]                     # pip install -e ".[test]"
+cortex = ["nilearn", "nibabel"]       # the two cortical figures (scripts/plot_paper_v3_fmri.py)
+
+[tool.setuptools.packages.find]
+where = ["src"]

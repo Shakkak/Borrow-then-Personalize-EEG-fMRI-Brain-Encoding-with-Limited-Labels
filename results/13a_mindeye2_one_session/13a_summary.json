@@ -1,0 +1,45 @@
+{
+  "post_hoc": "development: MindEye2's released one-session models on the one-session test set",
+  "people": {
+    "subj01": {
+      "voxels": 15724,
+      "test_trials": 3000,
+      "image_ret": 79.02222222222223,
+      "brain_ret": 93.69999999999999,
+      "their_fwd": 94.1444440682729,
+      "their_bwd": 78.35555533568065
+    },
+    "subj02": {
+      "voxels": 14278,
+      "test_trials": 3000,
+      "image_ret": 68.9,
+      "brain_ret": 91.38888888888889,
+      "their_fwd": 90.64444462458293,
+      "their_bwd": 67.3555560906728
+    },
+    "subj05": {
+      "voxels": 13039,
+      "test_trials": 3000,
+      "image_ret": 46.6,
+      "brain_ret": 67.55555555555556,
+      "their_fwd": 67.12222278118134,
+      "their_bwd": 46.26666635274887
+    },
+    "subj07": {
+      "voxels": 12682,
+      "test_trials": 3000,
+      "image_ret": 37.18888888888889,
+      "brain_ret": 63.055555555555564,
+      "their_fwd": 63.62222174803416,
+      "their_bwd": 37.86666661500931
+    }
+  },
+  "means": {
+    "image_ret": 57.92777777777778,
+    "brain_ret": 78.925,
+    "their_fwd": 78.88333330551784,
+    "their_bwd": 57.46111109852791
+  },
+  "their_fwd_is": "brain_ret",
+  "reproduced": true
+}

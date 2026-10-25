@@ -1,0 +1,72 @@
+{
+ "P-1 shared network": {
+  "x0.5": "rejected",
+  "x1": "rejected",
+  "x2": "rejected"
+ },
+ "P-1 follow-up network correction": {
+  "x0.5": "inconclusive",
+  "x1": "inconclusive",
+  "x2": "inconclusive"
+ },
+ "P-3 map over six": {
+  "x0.5": "supported",
+  "x1": "supported",
+  "x2": "inconclusive"
+ },
+ "P-4 map over six": {
+  "x0.5": "inconclusive",
+  "x1": "inconclusive",
+  "x2": "inconclusive"
+ },
+ "P-2 borrowing over own (4 contrasts)": {
+  "x0.5": "supported",
+  "x1": "supported",
+  "x2": "supported"
+ },
+ "P-6 C1": {
+  "x0.5": "inconclusive",
+  "x1": "inconclusive",
+  "x2": "inconclusive"
+ },
+ "P-6 C2": {
+  "x0.5": "inconclusive",
+  "x1": "inconclusive",
+  "x2": "inconclusive"
+ },
+ "P-6 C3": {
+  "x0.5": "supported",
+  "x1": "supported",
+  "x2": "supported"
+ },
+ "P-7 C1": {
+  "x0.5": "supported",
+  "x1": "supported",
+  "x2": "inconclusive"
+ },
+ "P-7 C2": {
+  "x0.5": "supported",
+  "x1": "supported",
+  "x2": "inconclusive"
+ },
+ "P-7 C3": {
+  "x0.5": "supported",
+  "x1": "inconclusive",
+  "x2": "inconclusive"
+ },
+ "P-8 E1": {
+  "x0.5": "supported",
+  "x1": "supported",
+  "x2": "inconclusive"
+ },
+ "P-8 E2": {
+  "x0.5": "supported",
+  "x1": "inconclusive",
+  "x2": "inconclusive"
+ },
+ "P-8 E3": {
+  "x0.5": "inconclusive",
+  "x1": "rejected",
+  "x2": "rejected"
+ }
+}

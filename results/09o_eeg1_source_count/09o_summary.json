@@ -1,0 +1,95 @@
+{
+  "by_n": {
+    "2": {
+      "avg": 0.12126696363540884,
+      "h4b": 0.1566278328027402,
+      "h4b_minus_avg": {
+        "mean": 0.03536086916733131,
+        "lower95": 0.024095294517260585,
+        "upper95": 0.04662644381740204,
+        "positive": 21,
+        "n": 22
+      }
+    },
+    "5": {
+      "avg": 0.14572633568650642,
+      "h4b": 0.17618269601852557,
+      "h4b_minus_avg": {
+        "mean": 0.03045636033201914,
+        "lower95": 0.02058367135626006,
+        "upper95": 0.04032904930777822,
+        "positive": 21,
+        "n": 22
+      }
+    },
+    "10": {
+      "avg": 0.16103190109528964,
+      "h4b": 0.18807812581335065,
+      "h4b_minus_avg": {
+        "mean": 0.02704622471806104,
+        "lower95": 0.017316251045974045,
+        "upper95": 0.036776198390148035,
+        "positive": 21,
+        "n": 22
+      }
+    },
+    "15": {
+      "avg": 0.16843828723391388,
+      "h4b": 0.19398553448683958,
+      "h4b_minus_avg": {
+        "mean": 0.025547247252925686,
+        "lower95": 0.016170118642013447,
+        "upper95": 0.034924375863837925,
+        "positive": 21,
+        "n": 22
+      }
+    },
+    "21": {
+      "avg": 0.17229991692238958,
+      "h4b": 0.1976145980524639,
+      "h4b_minus_avg": {
+        "mean": 0.025314681130074294,
+        "lower95": 0.015847031710193055,
+        "upper95": 0.03478233054995553,
+        "positive": 20,
+        "n": 22
+      }
+    }
+  },
+  "post_hoc": "development; the 24 reserved EEG1 people are not opened",
+  "gain_21_minus_gain_5": {
+    "mean": -0.005141679201944854,
+    "lower95": -0.00959838213884336,
+    "upper95": -0.000684976265046348,
+    "positive": 7,
+    "n": 22
+  },
+  "gain_21_over_gain_5": 0.8311788031828827,
+  "h4b_minus_exchanged_21": {
+    "mean": 0.05509507821747103,
+    "lower95": 0.04257757950014147,
+    "upper95": 0.06761257693480059,
+    "positive": 22,
+    "n": 22
+  },
+  "exchanged_minus_avg_21": {
+    "mean": -0.029780397087396736,
+    "lower95": -0.03753095049820638,
+    "upper95": -0.022029843676587096,
+    "positive": 0,
+    "n": 22
+  },
+  "h4b_5_minus_avg_21": {
+    "mean": 0.003882779096135972,
+    "lower95": -0.0062120462919376205,
+    "upper95": 0.013977604484209564,
+    "positive": 12,
+    "n": 22
+  },
+  "spearman_gain_vs_log_n": {
+    "median": -0.6,
+    "negative": 18,
+    "n": 22
+  },
+  "rule": "descriptive: the personal gain holds up as the crowd grows if, at n = 21, H4b minus others' average has a 95% lower bound above 0 and is at least half its size at n = 5; personal beats exchanged if H4b minus exchanged at n = 21 has a 95% lower bound above 0"
+}

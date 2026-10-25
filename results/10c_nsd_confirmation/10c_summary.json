@@ -1,0 +1,166 @@
+{
+  "protocol": "P-7 (docs/proposals/nsd_confirmation_protocol.md)",
+  "K": 200,
+  "common_vertices": 39161,
+  "delta_r": 0.02983024890945431,
+  "delta_top1": 2.0,
+  "claims": {
+    "C1_lowrank_map_minus_avg_enc_r": {
+      "mean": 0.05110359812736753,
+      "lower": 0.03857227460214587,
+      "upper": 0.0636349216525892,
+      "margin": 0.02983024890945431,
+      "n": 8,
+      "positive": 8,
+      "verdict": "supported"
+    },
+    "C2_stack_minus_avg_top1": {
+      "mean": 7.4375,
+      "lower": 3.1587907989992026,
+      "upper": 11.716209201000797,
+      "margin": 2.0,
+      "n": 8,
+      "positive": 8,
+      "verdict": "supported"
+    },
+    "C3_stack_minus_own_ridge_top1": {
+      "mean": 3.71875,
+      "lower": 1.6085839886257687,
+      "upper": 5.828916011374231,
+      "margin": 2.0,
+      "n": 8,
+      "positive": 8,
+      "verdict": "inconclusive"
+    }
+  },
+  "descriptive": {
+    "0": {
+      "avg": {
+        "enc_r": 0.251232865697981,
+        "top1": 27.3125
+      },
+      "avg_centred_top1": 27.65625
+    },
+    "100": {
+      "avg_labelled_mean": {
+        "enc_r": 0.251232865697981,
+        "top1": 24.963541666666664
+      },
+      "lowrank_map": {
+        "enc_r": 0.28375566606504277,
+        "top1": 28.989583333333336
+      },
+      "own_ridge": {
+        "enc_r": 0.2224096771674041,
+        "top1": 15.145833333333332
+      },
+      "stack": {
+        "enc_r": 0.22604178443999323,
+        "top1": 25.645833333333336
+      },
+      "mixed": {
+        "enc_r": 0.29918631845886245,
+        "top1": 44.46354166666667
+      }
+    },
+    "250": {
+      "avg_labelled_mean": {
+        "enc_r": 0.251232865697981,
+        "top1": 26.546875
+      },
+      "lowrank_map": {
+        "enc_r": 0.30011069713989874,
+        "top1": 34.70833333333333
+      },
+      "own_ridge": {
+        "enc_r": 0.2747079359436848,
+        "top1": 27.302083333333332
+      },
+      "stack": {
+        "enc_r": 0.28221001734529905,
+        "top1": 32.79166666666667
+      },
+      "mixed": {
+        "enc_r": 0.34925313876861197,
+        "top1": 54.8125
+      }
+    },
+    "500": {
+      "avg_labelled_mean": {
+        "enc_r": 0.251232865697981,
+        "top1": 26.671875000000004
+      },
+      "lowrank_map": {
+        "enc_r": 0.3045622305107983,
+        "top1": 37.395833333333336
+      },
+      "own_ridge": {
+        "enc_r": 0.3079470571192426,
+        "top1": 35.447916666666664
+      },
+      "stack": {
+        "enc_r": 0.30928095590316795,
+        "top1": 37.39583333333333
+      },
+      "mixed": {
+        "enc_r": 0.3731602389829104,
+        "top1": 60.140625
+      }
+    },
+    "1000": {
+      "avg_labelled_mean": {
+        "enc_r": 0.251232865697981,
+        "top1": 27.145833333333332
+      },
+      "lowrank_map": {
+        "enc_r": 0.3130015099703781,
+        "top1": 39.47916666666667
+      },
+      "own_ridge": {
+        "enc_r": 0.33490796359203195,
+        "top1": 41.098958333333336
+      },
+      "stack": {
+        "enc_r": 0.3368648000118327,
+        "top1": 42.08854166666667
+      },
+      "mixed": {
+        "enc_r": 0.3911248960164607,
+        "top1": 64.02083333333334
+      }
+    },
+    "own_full": {
+      "enc_r": 0.33627544715471674,
+      "top1": 46.421875
+    }
+  },
+  "h11_forecast_k500": {
+    "rho": 0.7380952380952381,
+    "p": 0.03655276105286081
+  },
+  "roi_map_gain_r": {
+    "floc-bodies|1": 0.0565,
+    "floc-bodies|2": 0.0915,
+    "floc-bodies|3": 0.0528,
+    "floc-bodies|4": 0.0278,
+    "floc-faces|1": 0.0772,
+    "floc-faces|2": 0.0881,
+    "floc-faces|3": 0.0476,
+    "floc-places|1": 0.0689,
+    "floc-places|2": 0.0267,
+    "floc-places|3": 0.0031,
+    "floc-words|1": 0.0629,
+    "floc-words|2": 0.0743,
+    "floc-words|3": 0.0588,
+    "floc-words|4": 0.0661,
+    "floc-words|5": 0.0116,
+    "prf-visualrois|1": 0.0262,
+    "prf-visualrois|2": 0.0274,
+    "prf-visualrois|3": 0.03,
+    "prf-visualrois|4": 0.0358,
+    "prf-visualrois|5": 0.0411,
+    "prf-visualrois|6": 0.0521,
+    "prf-visualrois|7": 0.0563
+  },
+  "stopped": null
+}

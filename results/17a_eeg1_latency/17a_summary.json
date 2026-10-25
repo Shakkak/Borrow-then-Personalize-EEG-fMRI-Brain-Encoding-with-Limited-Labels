@@ -1,0 +1,101 @@
+{
+  "dataset": "EEG1",
+  "post_hoc": "development",
+  "shift_alone_minus_avg": {
+    "mean": -0.002344449041027922,
+    "lower95": -0.006872475962970715,
+    "upper95": 0.002183577880914871,
+    "positive": 4,
+    "n": 22
+  },
+  "map_minus_avg": {
+    "mean": 0.018305550789482095,
+    "lower95": 0.008292098229150377,
+    "upper95": 0.028319003349813812,
+    "positive": 18,
+    "n": 22
+  },
+  "map_after_shift": {
+    "mean": 0.017717475091487533,
+    "lower95": 0.008209467775766033,
+    "upper95": 0.027225482407209033,
+    "positive": 18,
+    "n": 22
+  },
+  "shift_plus_map_minus_map": {
+    "mean": -0.002932524739022481,
+    "lower95": -0.007686241730745941,
+    "upper95": 0.0018211922527009792,
+    "positive": 3,
+    "n": 22
+  },
+  "spatial_share": 0.9678744603340504,
+  "by_k": {
+    "100": {
+      "shift_alone_minus_avg": {
+        "mean": -0.003542507011529784,
+        "lower95": -0.008648311882250117,
+        "upper95": 0.0015632978591905498,
+        "positive": 6,
+        "n": 22
+      },
+      "shift_plus_map_minus_map": {
+        "mean": -0.003986897633525306,
+        "lower95": -0.008705936416796085,
+        "upper95": 0.0007321411497454725,
+        "positive": 3,
+        "n": 22
+      }
+    },
+    "250": {
+      "shift_alone_minus_avg": {
+        "mean": -0.0019436802076966964,
+        "lower95": -0.006636829937620323,
+        "upper95": 0.00274946952222693,
+        "positive": 5,
+        "n": 22
+      },
+      "shift_plus_map_minus_map": {
+        "mean": -0.0025733602411839346,
+        "lower95": -0.00796941174230674,
+        "upper95": 0.00282269125993887,
+        "positive": 3,
+        "n": 22
+      }
+    },
+    "500": {
+      "shift_alone_minus_avg": {
+        "mean": -0.0015471599038572959,
+        "lower95": -0.005824946317276568,
+        "upper95": 0.0027306265095619767,
+        "positive": 6,
+        "n": 22
+      },
+      "shift_plus_map_minus_map": {
+        "mean": -0.0022373163423582087,
+        "lower95": -0.007080470378558251,
+        "upper95": 0.002605837693841834,
+        "positive": 3,
+        "n": 22
+      }
+    }
+  },
+  "shift_ms": {
+    "mean": 0.2020202020202022,
+    "share_zero": 0.6313131313131313,
+    "by_value": {
+      "-10": 37,
+      "0": 125,
+      "10": 32,
+      "20": 3,
+      "30": 1
+    },
+    "within_person_sd": 4.618224761310181,
+    "between_person_sd": 4.844876001800615
+  },
+  "rule": "descriptive: the personal part is spatial if the map's gain after the shift keeps at least 80% of its gain without it and its 95% lower bound is above 0; latency adds to the map if shift + map minus map has a 95% lower bound above 0",
+  "reading": {
+    "spatial": true,
+    "latency_adds": false
+  }
+}

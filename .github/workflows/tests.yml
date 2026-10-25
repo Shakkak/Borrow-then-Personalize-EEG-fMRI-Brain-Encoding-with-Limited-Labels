@@ -1,0 +1,26 @@
+name: tests
+on:
+  push:
+  pull_request:
+jobs:
+  tests:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install the tested versions (CPU torch)
+        run: |
+          grep -v -E '^(torch|nilearn|nibabel|lxml|requests|certifi|charset-normalizer|idna|urllib3)==' environment/requirements-tested.txt > base.txt
+          pip install -r base.txt
+          pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cpu
+          pip install --no-deps -e .
+      - name: Tests
+        run: python -m pytest -q
+      - name: Offline figures
+        run: |
+          python scripts/plot_paper_v2.py > /dev/null
+          python scripts/plot_paper_v3.py > /dev/null
+          python scripts/plot_paper_v5.py --skip-examples > /dev/null
+          python scripts/paper_contrast_table.py > /dev/null

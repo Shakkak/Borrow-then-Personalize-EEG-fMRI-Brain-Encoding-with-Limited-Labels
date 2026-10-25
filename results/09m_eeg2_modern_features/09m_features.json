@@ -1,0 +1,17 @@
+{
+  "dinov2": {
+    "raw_features": 112896,
+    "model": "facebook/dinov2-base",
+    "peak_gpu_gib": 5.677914619445801
+  },
+  "dinov3": {
+    "raw_features": 112896,
+    "model": "facebook/dinov3-vitb16-pretrain-lvd1689m",
+    "peak_gpu_gib": 5.677916526794434
+  },
+  "siglip2": {
+    "raw_features": 112896,
+    "model": "google/siglip2-base-patch16-224",
+    "peak_gpu_gib": 5.677916526794434
+  }
+}

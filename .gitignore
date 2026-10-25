@@ -1,0 +1,9 @@
+__pycache__/
+*.egg-info/
+build/
+.pytest_cache/
+# figures are redrawn from results/ by scripts/plot_paper_*.py
+results/figures/v2/
+results/figures/v3/
+results/figures/v5/
+results/metrics/

@@ -1,0 +1,14 @@
+# Unversioned: the full environment for feature extraction (Kaggle base images already ship torch/numpy/pandas/etc.).
+# The exact versions the tests passed with are in environment/requirements-tested.txt.
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+h5py
+open_clip_torch
+transformers
+nibabel
+nilearn

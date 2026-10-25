@@ -1,0 +1,197 @@
+{
+  "post_hoc": "development; one NSD person of P-7",
+  "subject": "subj01",
+  "k": 500,
+  "draw": 13,
+  "gallery_licences": {
+    "Attribution-NonCommercial-NoDerivs License": 225,
+    "Attribution-NonCommercial-ShareAlike License": 207,
+    "Attribution License": 135,
+    "Attribution-NonCommercial License": 133,
+    "Attribution-ShareAlike License": 70,
+    "Attribution-NoDerivs License": 29,
+    "No known copyright restrictions": 1
+  },
+  "reusable_gallery_images": 136,
+  "picked": [
+    {
+      "pos": 177,
+      "nsd_id": 16841,
+      "coco_id": 566261,
+      "split": "train2017",
+      "licence": "Attribution License",
+      "coco_url": "http://images.cocodataset.org/train2017/000000566261.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7074/6889990906_e085fdd85d_z.jpg",
+      "caption": "A group of men riding on the back of motorcycles."
+    },
+    {
+      "pos": 345,
+      "nsd_id": 29021,
+      "coco_id": 346795,
+      "split": "train2017",
+      "licence": "Attribution License",
+      "coco_url": "http://images.cocodataset.org/train2017/000000346795.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5098/5506100632_de68df6a29_z.jpg",
+      "caption": "three people on skis pose on a snowy hill"
+    },
+    {
+      "pos": 599,
+      "nsd_id": 49731,
+      "coco_id": 427729,
+      "split": "train2017",
+      "licence": "Attribution License",
+      "coco_url": "http://images.cocodataset.org/train2017/000000427729.jpg",
+      "flickr_url": "http://farm6.staticflickr.com/5451/9579548614_ebd1680345_z.jpg",
+      "caption": "Three brown cows grazing in field with trees in background."
+    },
+    {
+      "pos": 605,
+      "nsd_id": 50026,
+      "coco_id": 166764,
+      "split": "train2017",
+      "licence": "Attribution License",
+      "coco_url": "http://images.cocodataset.org/train2017/000000166764.jpg",
+      "flickr_url": "http://farm3.staticflickr.com/2601/3759689119_8e166fd909_z.jpg",
+      "caption": "Three young baseball players waiting at the door of a dugout."
+    },
+    {
+      "pos": 751,
+      "nsd_id": 62015,
+      "coco_id": 213288,
+      "split": "train2017",
+      "licence": "Attribution License",
+      "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+      "caption": "A counter lined with lots of wooden stools."
+    },
+    {
+      "pos": 856,
+      "nsd_id": 71241,
+      "coco_id": 511165,
+      "split": "train2017",
+      "licence": "Attribution License",
+      "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg",
+      "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+      "caption": "A group of appliances sit in a room."
+    }
+  ],
+  "hits_top1": {
+    "avg": [
+      true,
+      true,
+      false,
+      true,
+      true,
+      true
+    ],
+    "stack": [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true
+    ],
+    "mixed": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "rank_in_top5": {
+    "avg": [
+      0,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    "stack": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "mixed": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "credits": {
+    "566261": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm8.staticflickr.com/7074/6889990906_e085fdd85d_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000566261.jpg"
+    },
+    "42578": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm5.staticflickr.com/4011/4638025825_d967b95f3e_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000042578.jpg"
+    },
+    "346795": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm6.staticflickr.com/5098/5506100632_de68df6a29_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000346795.jpg"
+    },
+    "142803": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm5.staticflickr.com/4150/4990813682_1f528ebdef_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000142803.jpg"
+    },
+    "427729": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm6.staticflickr.com/5451/9579548614_ebd1680345_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000427729.jpg"
+    },
+    "361193": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm5.staticflickr.com/4088/4961503789_c6772606c9_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000361193.jpg"
+    },
+    "230422": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm3.staticflickr.com/2666/3772359736_2123b33fd5_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000230422.jpg"
+    },
+    "166764": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm3.staticflickr.com/2601/3759689119_8e166fd909_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000166764.jpg"
+    },
+    "268008": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm6.staticflickr.com/5479/9329091267_2911bc48d0_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000268008.jpg"
+    },
+    "461187": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm1.staticflickr.com/186/446784345_b4a50ef86b_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000461187.jpg"
+    },
+    "213288": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm8.staticflickr.com/7024/6429729793_3fd1472a58_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000213288.jpg"
+    },
+    "511165": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm8.staticflickr.com/7036/6926655526_85f8e4b93a_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000511165.jpg"
+    },
+    "157181": {
+      "licence": "Attribution License",
+      "flickr_url": "http://farm6.staticflickr.com/5162/5264582639_ce4f7c3764_z.jpg",
+      "coco_url": "http://images.cocodataset.org/train2017/000000157181.jpg"
+    }
+  }
+}

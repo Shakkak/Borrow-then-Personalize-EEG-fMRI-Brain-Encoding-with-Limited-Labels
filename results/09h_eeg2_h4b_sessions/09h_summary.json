@@ -1,0 +1,260 @@
+{
+  "verified": true,
+  "verification": [
+    {
+      "person": "sub-01",
+      "test_difference": 0.0025122665994490815,
+      "test_p": 0.000999000999000999,
+      "training_difference": 0.005703472525773686,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-02",
+      "test_difference": 0.0006946024293342165,
+      "test_p": 0.014985014985014986,
+      "training_difference": 0.004954805126253646,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-03",
+      "test_difference": 0.002445555223047454,
+      "test_p": 0.000999000999000999,
+      "training_difference": 0.00944703346255776,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-04",
+      "test_difference": 0.0032565108699110813,
+      "test_p": 0.000999000999000999,
+      "training_difference": 0.003832256681289767,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-05",
+      "test_difference": 0.0004348649833748122,
+      "test_p": 0.16183816183816183,
+      "training_difference": 0.0013813951930337354,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-06",
+      "test_difference": 0.0008792534408255549,
+      "test_p": 0.024975024975024976,
+      "training_difference": 0.0009436113070922618,
+      "training_rank": 2
+    },
+    {
+      "person": "sub-07",
+      "test_difference": 0.0016233619344406536,
+      "test_p": 0.000999000999000999,
+      "training_difference": 0.003449912806981089,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-08",
+      "test_difference": 0.002117710106745007,
+      "test_p": 0.000999000999000999,
+      "training_difference": 0.006049280138318031,
+      "training_rank": 1
+    },
+    {
+      "person": "sub-09",
+      "test_difference": 0.0005541559811544743,
+      "test_p": 0.05194805194805195,
+      "training_difference": 0.0005520964030503173,
+      "training_rank": 2
+    },
+    {
+      "person": "sub-10",
+      "test_difference": 0.0016714033303831775,
+      "test_p": 0.000999000999000999,
+      "training_difference": 0.002175968617836168,
+      "training_rank": 1
+    }
+  ],
+  "k_images": 4000,
+  "labels": {
+    "training": [
+      1,
+      0,
+      1,
+      0
+    ],
+    "test_counts": [
+      20,
+      20,
+      20,
+      20
+    ]
+  },
+  "offdiag_100_300ms": {
+    "same_session": 0.5606290090829134,
+    "cross_session": 0.5381023827008903,
+    "between_people": 0.012109890799971861,
+    "cross_over_same": 0.9598190139699112,
+    "cross_minus_between_p": 5.948074358418777e-07,
+    "same_minus_cross": 0.022526626382023095,
+    "same_minus_cross_p_two_sided": 0.09007523621437345,
+    "cross_above_between_people": 10,
+    "per_person_ratio": {
+      "sub-01": 0.919,
+      "sub-02": 1.152,
+      "sub-03": 0.922,
+      "sub-04": 0.788,
+      "sub-05": 1.017,
+      "sub-06": 0.928,
+      "sub-07": 0.949,
+      "sub-08": 0.956,
+      "sub-09": 1.007,
+      "sub-10": 0.988
+    }
+  },
+  "by_window": [
+    {
+      "part": "full",
+      "window": 0,
+      "same_session": 0.6594150722026825,
+      "cross_session": 0.6567201629281044,
+      "between_people": 0.6546994431151284
+    },
+    {
+      "part": "full",
+      "window": 1,
+      "same_session": 0.657452255487442,
+      "cross_session": 0.6502149671316146,
+      "between_people": 0.6409217870897717
+    },
+    {
+      "part": "full",
+      "window": 2,
+      "same_session": 0.6507503032684326,
+      "cross_session": 0.6291184097528457,
+      "between_people": 0.3229537974059996
+    },
+    {
+      "part": "full",
+      "window": 3,
+      "same_session": 0.7032051473855973,
+      "cross_session": 0.690906597673893,
+      "between_people": 0.20619429959398178
+    },
+    {
+      "part": "full",
+      "window": 4,
+      "same_session": 0.6440465748310089,
+      "cross_session": 0.6128018014132977,
+      "between_people": 0.24085572978429912
+    },
+    {
+      "part": "full",
+      "window": 5,
+      "same_session": 0.580797228217125,
+      "cross_session": 0.5689703859388828,
+      "between_people": 0.2782136161604689
+    },
+    {
+      "part": "full",
+      "window": 6,
+      "same_session": 0.4949222937226295,
+      "cross_session": 0.4837393291294575,
+      "between_people": 0.37260735923838284
+    },
+    {
+      "part": "full",
+      "window": 7,
+      "same_session": 0.46375761181116104,
+      "cross_session": 0.4602541968226433,
+      "between_people": 0.3994056769543224
+    },
+    {
+      "part": "full",
+      "window": 8,
+      "same_session": 0.4456636257469654,
+      "cross_session": 0.4331140123307705,
+      "between_people": 0.3847076332817475
+    },
+    {
+      "part": "full",
+      "window": 9,
+      "same_session": 0.44131658896803855,
+      "cross_session": 0.4468362104147673,
+      "between_people": 0.4125989928013748
+    },
+    {
+      "part": "offdiag",
+      "window": 0,
+      "same_session": 0.20255556516349316,
+      "cross_session": 0.19528600424528123,
+      "between_people": 0.1881943586308302
+    },
+    {
+      "part": "offdiag",
+      "window": 1,
+      "same_session": 0.23160117119550705,
+      "cross_session": 0.21708101127296686,
+      "between_people": 0.19663951809311078
+    },
+    {
+      "part": "offdiag",
+      "window": 2,
+      "same_session": 0.46567796021699903,
+      "cross_session": 0.43831854430027306,
+      "between_people": 0.034186415826843584
+    },
+    {
+      "part": "offdiag",
+      "window": 3,
+      "same_session": 0.6102494761347771,
+      "cross_session": 0.6001400947570801,
+      "between_people": 0.014604878539426458
+    },
+    {
+      "part": "offdiag",
+      "window": 4,
+      "same_session": 0.5110085420310497,
+      "cross_session": 0.47606467064470054,
+      "between_people": 0.009614903060517262
+    },
+    {
+      "part": "offdiag",
+      "window": 5,
+      "same_session": 0.4130778506398201,
+      "cross_session": 0.4015127349644899,
+      "between_people": 0.008755285164564459
+    },
+    {
+      "part": "offdiag",
+      "window": 6,
+      "same_session": 0.21313453204929828,
+      "cross_session": 0.21300994493067266,
+      "between_people": 0.05026451530284248
+    },
+    {
+      "part": "offdiag",
+      "window": 7,
+      "same_session": 0.147853910503909,
+      "cross_session": 0.1428107211831957,
+      "between_people": 0.06105478599654614
+    },
+    {
+      "part": "offdiag",
+      "window": 8,
+      "same_session": 0.13258794469293206,
+      "cross_session": 0.11126291891559958,
+      "between_people": 0.043841695853648666
+    },
+    {
+      "part": "offdiag",
+      "window": 9,
+      "same_session": 0.0947919855330838,
+      "cross_session": 0.10153238756684005,
+      "between_people": 0.06025454985469373
+    }
+  ],
+  "single_rep_map_gain_over_avg": {
+    "map_E1": 0.06248745718420321,
+    "map_L1": 0.06111474284963021
+  },
+  "verdict": "person-stable",
+  "rule": "person-stable if cross/same >= 0.8 and cross > between for every person; session-specific if <= 0.5; else mixed"
+}

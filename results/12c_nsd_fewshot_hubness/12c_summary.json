@@ -1,0 +1,163 @@
+{
+  "post_hoc": "development: why brain retrieval is weak in 12b; ref-norm is protocol-clean, row-norm uses the subset",
+  "systems": {
+    "borrowing": {
+      "image": 35.636111111111106,
+      "brain": 17.39722222222222,
+      "brain_rowcentre": 17.233333333333334,
+      "brain_rowz": 27.130555555555553,
+      "brain_ref": 26.930555555555557,
+      "image_ref": 27.730555555555554,
+      "hub_top3": 20.16944444444444,
+      "hub_never": 68.825,
+      "hub_skew": 5.378495439547682,
+      "hub_vs_mean_sim": 0.050843695971657915,
+      "img_hub_top3": 6.627777777777778,
+      "pred_offdiag": 0.009021301245422424,
+      "meas_offdiag": 0.002157057807568607,
+      "brain_ref_minus_brain": {
+        "mean": 9.533333333333339,
+        "positive": 4,
+        "n": 4
+      },
+      "brain_rowz_minus_brain": {
+        "mean": 9.733333333333334,
+        "positive": 4,
+        "n": 4
+      },
+      "image_ref_minus_image": {
+        "mean": -7.905555555555557,
+        "positive": 0,
+        "n": 4
+      }
+    },
+    "map": {
+      "image": 61.49444444444444,
+      "brain": 33.50833333333333,
+      "brain_rowcentre": 33.26111111111111,
+      "brain_rowz": 44.61944444444445,
+      "brain_ref": 44.30555555555555,
+      "image_ref": 49.125,
+      "hub_top3": 13.625,
+      "hub_never": 58.18888888888888,
+      "hub_skew": 4.031108751710067,
+      "hub_vs_mean_sim": 0.07027661594410496,
+      "img_hub_top3": 4.572222222222223,
+      "pred_offdiag": 0.011074732611144673,
+      "meas_offdiag": 0.002157057807568607,
+      "brain_ref_minus_brain": {
+        "mean": 10.797222222222215,
+        "positive": 4,
+        "n": 4
+      },
+      "brain_rowz_minus_brain": {
+        "mean": 11.11111111111111,
+        "positive": 4,
+        "n": 4
+      },
+      "image_ref_minus_image": {
+        "mean": -12.369444444444447,
+        "positive": 0,
+        "n": 4
+      }
+    },
+    "own_ridge": {
+      "image": 41.99166666666666,
+      "brain": 24.408333333333335,
+      "brain_rowcentre": 24.719444444444445,
+      "brain_rowz": 32.16388888888889,
+      "brain_ref": 31.83611111111112,
+      "image_ref": 37.03333333333333,
+      "hub_top3": 14.180555555555555,
+      "hub_never": 63.29166666666666,
+      "hub_skew": 3.8861539501444797,
+      "hub_vs_mean_sim": 0.07268751672004364,
+      "img_hub_top3": 5.947222222222223,
+      "pred_offdiag": 0.011168202199234836,
+      "meas_offdiag": 0.002157057807568607,
+      "brain_ref_minus_brain": {
+        "mean": 7.427777777777782,
+        "positive": 4,
+        "n": 4
+      },
+      "brain_rowz_minus_brain": {
+        "mean": 7.755555555555557,
+        "positive": 4,
+        "n": 4
+      },
+      "image_ref_minus_image": {
+        "mean": -4.958333333333329,
+        "positive": 1,
+        "n": 4
+      }
+    },
+    "mixed": {
+      "image": 64.51944444444445,
+      "brain": 34.199999999999996,
+      "brain_rowcentre": 34.14722222222222,
+      "brain_rowz": 46.358333333333334,
+      "brain_ref": 45.883333333333326,
+      "image_ref": 51.03611111111111,
+      "hub_top3": 13.48611111111111,
+      "hub_never": 58.04166666666667,
+      "hub_skew": 3.9805910679310217,
+      "hub_vs_mean_sim": 0.07013592501344519,
+      "img_hub_top3": 4.319444444444445,
+      "pred_offdiag": 0.011867813548914273,
+      "meas_offdiag": 0.002157057807568607,
+      "brain_ref_minus_brain": {
+        "mean": 11.683333333333334,
+        "positive": 4,
+        "n": 4
+      },
+      "brain_rowz_minus_brain": {
+        "mean": 12.158333333333339,
+        "positive": 4,
+        "n": 4
+      },
+      "image_ref_minus_image": {
+        "mean": -13.48333333333333,
+        "positive": 0,
+        "n": 4
+      }
+    },
+    "own_full": {
+      "image": 70.7777777777778,
+      "brain": 51.294444444444444,
+      "brain_rowcentre": 51.363888888888894,
+      "brain_rowz": 57.9388888888889,
+      "brain_ref": 57.78611111111111,
+      "image_ref": 61.84444444444445,
+      "hub_top3": 9.683333333333334,
+      "hub_never": 42.897222222222226,
+      "hub_skew": 3.3969764377598306,
+      "hub_vs_mean_sim": 0.06008190135330495,
+      "img_hub_top3": 4.197222222222223,
+      "pred_offdiag": 0.004755215394118527,
+      "meas_offdiag": 0.002157057807568607,
+      "brain_ref_minus_brain": {
+        "mean": 6.491666666666665,
+        "positive": 4,
+        "n": 4
+      },
+      "brain_rowz_minus_brain": {
+        "mean": 6.644444444444444,
+        "positive": 4,
+        "n": 4
+      },
+      "image_ref_minus_image": {
+        "mean": -8.933333333333346,
+        "positive": 0,
+        "n": 4
+      }
+    }
+  },
+  "check_against_12b": {
+    "mixed_image": 64.51944444444445,
+    "mixed_brain": 34.199999999999996,
+    "12b": [
+      64.5,
+      34.2
+    ]
+  }
+}

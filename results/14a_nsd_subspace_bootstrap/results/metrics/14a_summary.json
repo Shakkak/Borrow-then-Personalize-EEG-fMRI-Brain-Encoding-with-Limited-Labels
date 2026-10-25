@@ -1,0 +1,171 @@
+{
+  "post_hoc": "development: subspace control and two-way bootstrap",
+  "levels": {
+    "donor|borrow": {
+      "enc_r": 0.3023364638253485,
+      "top1": 36.052083333333336
+    },
+    "donor|none": {
+      "enc_r": 0.31377532475875936,
+      "top1": 26.388020833333336
+    },
+    "featpca|borrow": {
+      "enc_r": 0.30006758611948536,
+      "top1": 34.29947916666667
+    },
+    "featpca|none": {
+      "enc_r": 0.2903096506453562,
+      "top1": 30.17708333333333
+    },
+    "full|borrow": {
+      "enc_r": 0.3012891018685243,
+      "top1": 34.510416666666664
+    },
+    "full|none": {
+      "enc_r": 0.2913274965314637,
+      "top1": 31.375
+    },
+    "random|borrow": {
+      "enc_r": 0.27902276409166826,
+      "top1": 30.453125
+    },
+    "random|none": {
+      "enc_r": 0.26870716253425564,
+      "top1": 22.8515625
+    },
+    "stack": {
+      "enc_r": 0.2957454866242335,
+      "top1": 35.09375
+    },
+    "avg": {
+      "enc_r": 0.251232865697981,
+      "top1": 27.3125
+    },
+    "avg_centred": {
+      "top1": 27.65625
+    }
+  },
+  "contrasts": {
+    "donor|borrow - donor|none|enc_r": {
+      "mean": -0.01143886093341085,
+      "positive": 0,
+      "n": 8
+    },
+    "donor|borrow - donor|none|top1": {
+      "mean": 9.6640625,
+      "positive": 8,
+      "n": 8
+    },
+    "donor|borrow - featpca|borrow|enc_r": {
+      "mean": 0.0022688777058631412,
+      "positive": 6,
+      "n": 8
+    },
+    "donor|borrow - featpca|borrow|top1": {
+      "mean": 1.7526041666666665,
+      "positive": 7,
+      "n": 8
+    },
+    "donor|borrow - random|borrow|enc_r": {
+      "mean": 0.023313699733680245,
+      "positive": 8,
+      "n": 8
+    },
+    "donor|borrow - random|borrow|top1": {
+      "mean": 5.598958333333334,
+      "positive": 8,
+      "n": 8
+    },
+    "donor|borrow - full|borrow|enc_r": {
+      "mean": 0.001047361956824186,
+      "positive": 5,
+      "n": 8
+    },
+    "donor|borrow - full|borrow|top1": {
+      "mean": 1.5416666666666679,
+      "positive": 7,
+      "n": 8
+    },
+    "donor|borrow - full|none|enc_r": {
+      "mean": 0.011008967293884796,
+      "positive": 6,
+      "n": 8
+    },
+    "donor|borrow - full|none|top1": {
+      "mean": 4.677083333333334,
+      "positive": 8,
+      "n": 8
+    },
+    "full|borrow - full|none|enc_r": {
+      "mean": 0.00996160533706061,
+      "positive": 6,
+      "n": 8
+    },
+    "full|borrow - full|none|top1": {
+      "mean": 3.135416666666666,
+      "positive": 7,
+      "n": 8
+    },
+    "donor|none - full|none|enc_r": {
+      "mean": 0.022447828227295647,
+      "positive": 8,
+      "n": 8
+    },
+    "donor|none - full|none|top1": {
+      "mean": -4.986979166666666,
+      "positive": 2,
+      "n": 8
+    },
+    "featpca|borrow - random|borrow|enc_r": {
+      "mean": 0.021044822027817104,
+      "positive": 8,
+      "n": 8
+    },
+    "featpca|borrow - random|borrow|top1": {
+      "mean": 3.846354166666667,
+      "positive": 8,
+      "n": 8
+    },
+    "donor|borrow - avg|enc_r": {
+      "mean": 0.05110359812736753,
+      "positive": 8,
+      "n": 8
+    },
+    "donor|borrow - avg|top1": {
+      "mean": 8.739583333333334,
+      "positive": 8,
+      "n": 8
+    }
+  },
+  "bootstrap": {
+    "C1": {
+      "margin": 0.02983024890945431,
+      "mean": 0.051051769638171866,
+      "two_way_lower": 0.04159385067436918,
+      "two_way_upper": 0.06060543416837291,
+      "images_only_lower": 0.04919571455162345,
+      "verdict_two_way": "supported"
+    },
+    "C2": {
+      "margin": 2.0,
+      "mean": 7.452474372551973,
+      "two_way_lower": 4.020982540660411,
+      "two_way_upper": 11.358064830442876,
+      "images_only_lower": 5.867182038296509,
+      "verdict_two_way": "supported"
+    },
+    "C3": {
+      "margin": 2.0,
+      "mean": 3.7122906540552685,
+      "two_way_lower": 2.120836999525212,
+      "two_way_upper": 5.491108801523957,
+      "images_only_lower": 3.316840294941046,
+      "verdict_two_way": "supported"
+    }
+  },
+  "check_10c": {
+    "C1": 0.05110359812736753,
+    "C3": 3.71875
+  },
+  "stopped": null
+}

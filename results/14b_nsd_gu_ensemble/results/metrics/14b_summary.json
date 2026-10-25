@@ -1,0 +1,161 @@
+{
+  "post_hoc": "development: Gu et al.'s ensemble on NSD",
+  "levels": {
+    "avg": {
+      "enc_r": 0.251232865697981,
+      "top1": 27.3125
+    },
+    "gu_region_mean": {
+      "enc_r": 0.20618671112029047,
+      "top1": 22.322916666666664
+    },
+    "gu_region_pooled": {
+      "enc_r": 0.247713385455392,
+      "top1": 20.442708333333336
+    },
+    "gu_vertex": {
+      "enc_r": 0.25724977309057206,
+      "top1": 35.778645833333336
+    },
+    "map": {
+      "enc_r": 0.3023364638253485,
+      "top1": 36.052083333333336
+    },
+    "map_on_gu_region_mean": {
+      "enc_r": 0.27268232124128794,
+      "top1": 31.757812499999996
+    },
+    "map_on_gu_region_pooled": {
+      "enc_r": 0.3190061968856386,
+      "top1": 30.505208333333336
+    },
+    "map_on_gu_vertex": {
+      "enc_r": 0.2927298232639166,
+      "top1": 37.375
+    }
+  },
+  "contrasts": {
+    "map - gu_region_mean|enc_r": {
+      "mean": 0.09614975270505802,
+      "positive": 8,
+      "n": 8
+    },
+    "map - gu_region_mean|top1": {
+      "mean": 13.729166666666668,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_region_mean - gu_region_mean|enc_r": {
+      "mean": 0.0664956101209975,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_region_mean - gu_region_mean|top1": {
+      "mean": 9.434895833333334,
+      "positive": 8,
+      "n": 8
+    },
+    "gu_region_mean - avg|enc_r": {
+      "mean": -0.04504615457769049,
+      "positive": 0,
+      "n": 8
+    },
+    "gu_region_mean - avg|top1": {
+      "mean": -4.989583333333334,
+      "positive": 0,
+      "n": 8
+    },
+    "map_on_gu_region_mean - map|enc_r": {
+      "mean": -0.029654142584060527,
+      "positive": 0,
+      "n": 8
+    },
+    "map_on_gu_region_mean - map|top1": {
+      "mean": -4.294270833333335,
+      "positive": 0,
+      "n": 8
+    },
+    "map - gu_region_pooled|enc_r": {
+      "mean": 0.054623078369956474,
+      "positive": 8,
+      "n": 8
+    },
+    "map - gu_region_pooled|top1": {
+      "mean": 15.609375,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_region_pooled - gu_region_pooled|enc_r": {
+      "mean": 0.07129281143024654,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_region_pooled - gu_region_pooled|top1": {
+      "mean": 10.0625,
+      "positive": 8,
+      "n": 8
+    },
+    "gu_region_pooled - avg|enc_r": {
+      "mean": -0.0035194802425889404,
+      "positive": 1,
+      "n": 8
+    },
+    "gu_region_pooled - avg|top1": {
+      "mean": -6.869791666666666,
+      "positive": 1,
+      "n": 8
+    },
+    "map_on_gu_region_pooled - map|enc_r": {
+      "mean": 0.016669733060290067,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_region_pooled - map|top1": {
+      "mean": -5.546875,
+      "positive": 1,
+      "n": 8
+    },
+    "map - gu_vertex|enc_r": {
+      "mean": 0.0450866907347764,
+      "positive": 8,
+      "n": 8
+    },
+    "map - gu_vertex|top1": {
+      "mean": 0.2734375,
+      "positive": 5,
+      "n": 8
+    },
+    "map_on_gu_vertex - gu_vertex|enc_r": {
+      "mean": 0.035480050173344525,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_vertex - gu_vertex|top1": {
+      "mean": 1.5963541666666652,
+      "positive": 7,
+      "n": 8
+    },
+    "gu_vertex - avg|enc_r": {
+      "mean": 0.006016907392591135,
+      "positive": 6,
+      "n": 8
+    },
+    "gu_vertex - avg|top1": {
+      "mean": 8.466145833333334,
+      "positive": 8,
+      "n": 8
+    },
+    "map_on_gu_vertex - map|enc_r": {
+      "mean": -0.009606640561431873,
+      "positive": 0,
+      "n": 8
+    },
+    "map_on_gu_vertex - map|top1": {
+      "mean": 1.3229166666666652,
+      "positive": 6,
+      "n": 8
+    }
+  },
+  "check_10c_C1": 0.05110359812736753,
+  "stopped": null
+}

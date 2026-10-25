@@ -1,0 +1,5 @@
+# Adds nilearn to the CPU image, for the two cortical figures (scripts/plot_paper_v3_fmri.py). Build the CPU image first:
+#   docker build -t xsub-torch:local -f environment/Dockerfile .
+#   docker build -t xsub-nilearn:local -f environment/Dockerfile.cortex .
+FROM xsub-torch:local
+RUN pip install -q --root-user-action=ignore --no-cache-dir nilearn==0.11.1 nibabel==5.4.2

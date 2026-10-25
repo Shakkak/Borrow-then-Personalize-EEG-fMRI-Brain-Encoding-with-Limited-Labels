@@ -1,0 +1,490 @@
+{
+  "status": "complete_confirmation",
+  "frozen": {
+    "delta": 0.003547826037718968,
+    "feature_sha256": "61d36682db158fc622efe721c7759f70f52868a828aa9a66d395fdff7318ec1f",
+    "k_subsets_sha256": "3f3ede66115c9fefd34e15d0b93a5fc10ef3f12ed32e251a3aab1a79732e01c1",
+    "budgets": [
+      250,
+      500
+    ],
+    "draws": [
+      13,
+      14,
+      15
+    ],
+    "core_seeds": [
+      13,
+      14,
+      15
+    ],
+    "epochs": 30,
+    "window_s": [
+      0.1,
+      0.2
+    ],
+    "alpha": 0.05,
+    "min_targets": 20,
+    "protocol": "P-1 frozen"
+  },
+  "completed_targets": [
+    "sub-02",
+    "sub-03",
+    "sub-05",
+    "sub-08",
+    "sub-09",
+    "sub-10",
+    "sub-16",
+    "sub-19",
+    "sub-22",
+    "sub-27",
+    "sub-28",
+    "sub-31",
+    "sub-32",
+    "sub-33",
+    "sub-36",
+    "sub-37",
+    "sub-40",
+    "sub-41",
+    "sub-42",
+    "sub-43",
+    "sub-44",
+    "sub-45",
+    "sub-47",
+    "sub-50"
+  ],
+  "failed_targets": {},
+  "sources": [
+    "sub-04",
+    "sub-07",
+    "sub-11",
+    "sub-12",
+    "sub-13",
+    "sub-14",
+    "sub-15",
+    "sub-17",
+    "sub-20",
+    "sub-21",
+    "sub-24",
+    "sub-25",
+    "sub-26",
+    "sub-29",
+    "sub-30",
+    "sub-34",
+    "sub-35",
+    "sub-38",
+    "sub-39",
+    "sub-46",
+    "sub-48",
+    "sub-49"
+  ],
+  "targets": [
+    "sub-02",
+    "sub-03",
+    "sub-05",
+    "sub-08",
+    "sub-09",
+    "sub-10",
+    "sub-16",
+    "sub-19",
+    "sub-22",
+    "sub-27",
+    "sub-28",
+    "sub-31",
+    "sub-32",
+    "sub-33",
+    "sub-36",
+    "sub-37",
+    "sub-40",
+    "sub-41",
+    "sub-42",
+    "sub-43",
+    "sub-44",
+    "sub-45",
+    "sub-47",
+    "sub-50"
+  ],
+  "training": {
+    "13": {
+      "best_epoch": 4,
+      "best_score": 0.006440730765461922,
+      "history": [
+        {
+          "epoch": 0,
+          "holdout_median_r": 0.001581701566465199
+        },
+        {
+          "epoch": 1,
+          "holdout_median_r": 0.0038101854734122753
+        },
+        {
+          "epoch": 2,
+          "holdout_median_r": 0.004525764845311642
+        },
+        {
+          "epoch": 3,
+          "holdout_median_r": 0.005016110371798277
+        },
+        {
+          "epoch": 4,
+          "holdout_median_r": 0.006440730765461922
+        },
+        {
+          "epoch": 5,
+          "holdout_median_r": 0.005522434134036303
+        },
+        {
+          "epoch": 6,
+          "holdout_median_r": 0.0054246834479272366
+        },
+        {
+          "epoch": 7,
+          "holdout_median_r": 0.0056064194068312645
+        },
+        {
+          "epoch": 8,
+          "holdout_median_r": 0.0064092897810041904
+        },
+        {
+          "epoch": 9,
+          "holdout_median_r": 0.005371850915253162
+        },
+        {
+          "epoch": 10,
+          "holdout_median_r": 0.005157058592885733
+        },
+        {
+          "epoch": 11,
+          "holdout_median_r": 0.005619731266051531
+        },
+        {
+          "epoch": 12,
+          "holdout_median_r": 0.00575766246765852
+        },
+        {
+          "epoch": 13,
+          "holdout_median_r": 0.005913237109780312
+        },
+        {
+          "epoch": 14,
+          "holdout_median_r": 0.005319882184267044
+        },
+        {
+          "epoch": 15,
+          "holdout_median_r": 0.0054047591984272
+        },
+        {
+          "epoch": 16,
+          "holdout_median_r": 0.004422386176884174
+        },
+        {
+          "epoch": 17,
+          "holdout_median_r": 0.005538053810596466
+        },
+        {
+          "epoch": 18,
+          "holdout_median_r": 0.005065863486379385
+        },
+        {
+          "epoch": 19,
+          "holdout_median_r": 0.0043205153197050095
+        },
+        {
+          "epoch": 20,
+          "holdout_median_r": 0.005333364009857178
+        },
+        {
+          "epoch": 21,
+          "holdout_median_r": 0.005010032095015049
+        },
+        {
+          "epoch": 22,
+          "holdout_median_r": 0.004505958408117294
+        },
+        {
+          "epoch": 23,
+          "holdout_median_r": 0.004434165079146624
+        },
+        {
+          "epoch": 24,
+          "holdout_median_r": 0.004157114773988724
+        },
+        {
+          "epoch": 25,
+          "holdout_median_r": 0.004699032753705978
+        },
+        {
+          "epoch": 26,
+          "holdout_median_r": 0.0038421228528022766
+        },
+        {
+          "epoch": 27,
+          "holdout_median_r": 0.004961256869137287
+        },
+        {
+          "epoch": 28,
+          "holdout_median_r": 0.004255334381014109
+        },
+        {
+          "epoch": 29,
+          "holdout_median_r": 0.00477218721061945
+        }
+      ]
+    },
+    "14": {
+      "best_epoch": 6,
+      "best_score": 0.006427283398807049,
+      "history": [
+        {
+          "epoch": 0,
+          "holdout_median_r": 0.001051697414368391
+        },
+        {
+          "epoch": 1,
+          "holdout_median_r": 0.0030308158602565527
+        },
+        {
+          "epoch": 2,
+          "holdout_median_r": 0.0041594174690544605
+        },
+        {
+          "epoch": 3,
+          "holdout_median_r": 0.005357174668461084
+        },
+        {
+          "epoch": 4,
+          "holdout_median_r": 0.006417820230126381
+        },
+        {
+          "epoch": 5,
+          "holdout_median_r": 0.005351702682673931
+        },
+        {
+          "epoch": 6,
+          "holdout_median_r": 0.006427283398807049
+        },
+        {
+          "epoch": 7,
+          "holdout_median_r": 0.005721791181713343
+        },
+        {
+          "epoch": 8,
+          "holdout_median_r": 0.004730855580419302
+        },
+        {
+          "epoch": 9,
+          "holdout_median_r": 0.006425565108656883
+        },
+        {
+          "epoch": 10,
+          "holdout_median_r": 0.005948062986135483
+        },
+        {
+          "epoch": 11,
+          "holdout_median_r": 0.00583426421508193
+        },
+        {
+          "epoch": 12,
+          "holdout_median_r": 0.006328308954834938
+        },
+        {
+          "epoch": 13,
+          "holdout_median_r": 0.006420358084142208
+        },
+        {
+          "epoch": 14,
+          "holdout_median_r": 0.005722047761082649
+        },
+        {
+          "epoch": 15,
+          "holdout_median_r": 0.005063317716121674
+        },
+        {
+          "epoch": 16,
+          "holdout_median_r": 0.004863285459578037
+        },
+        {
+          "epoch": 17,
+          "holdout_median_r": 0.004906714893877506
+        },
+        {
+          "epoch": 18,
+          "holdout_median_r": 0.005150848068296909
+        },
+        {
+          "epoch": 19,
+          "holdout_median_r": 0.006351499818265438
+        },
+        {
+          "epoch": 20,
+          "holdout_median_r": 0.005234823562204838
+        },
+        {
+          "epoch": 21,
+          "holdout_median_r": 0.0035195264499634504
+        },
+        {
+          "epoch": 22,
+          "holdout_median_r": 0.0047150831669569016
+        },
+        {
+          "epoch": 23,
+          "holdout_median_r": 0.0052701751701533794
+        },
+        {
+          "epoch": 24,
+          "holdout_median_r": 0.0042108274064958096
+        },
+        {
+          "epoch": 25,
+          "holdout_median_r": 0.003614050569012761
+        },
+        {
+          "epoch": 26,
+          "holdout_median_r": 0.0033579999580979347
+        },
+        {
+          "epoch": 27,
+          "holdout_median_r": 0.003706536255776882
+        },
+        {
+          "epoch": 28,
+          "holdout_median_r": 0.003407867159694433
+        },
+        {
+          "epoch": 29,
+          "holdout_median_r": 0.0029422645457088947
+        }
+      ]
+    },
+    "15": {
+      "best_epoch": 19,
+      "best_score": 0.006548806093633175,
+      "history": [
+        {
+          "epoch": 0,
+          "holdout_median_r": 0.0005681562470272183
+        },
+        {
+          "epoch": 1,
+          "holdout_median_r": 0.0033624484203755856
+        },
+        {
+          "epoch": 2,
+          "holdout_median_r": 0.0038861639332026243
+        },
+        {
+          "epoch": 3,
+          "holdout_median_r": 0.004894288256764412
+        },
+        {
+          "epoch": 4,
+          "holdout_median_r": 0.0056219277903437614
+        },
+        {
+          "epoch": 5,
+          "holdout_median_r": 0.004651308991014957
+        },
+        {
+          "epoch": 6,
+          "holdout_median_r": 0.006114363670349121
+        },
+        {
+          "epoch": 7,
+          "holdout_median_r": 0.005825334694236517
+        },
+        {
+          "epoch": 8,
+          "holdout_median_r": 0.006032718811184168
+        },
+        {
+          "epoch": 9,
+          "holdout_median_r": 0.006293019279837608
+        },
+        {
+          "epoch": 10,
+          "holdout_median_r": 0.005130109377205372
+        },
+        {
+          "epoch": 11,
+          "holdout_median_r": 0.005530768074095249
+        },
+        {
+          "epoch": 12,
+          "holdout_median_r": 0.00524201150983572
+        },
+        {
+          "epoch": 13,
+          "holdout_median_r": 0.005857799202203751
+        },
+        {
+          "epoch": 14,
+          "holdout_median_r": 0.005975103937089443
+        },
+        {
+          "epoch": 15,
+          "holdout_median_r": 0.005953952670097351
+        },
+        {
+          "epoch": 16,
+          "holdout_median_r": 0.006032842211425304
+        },
+        {
+          "epoch": 17,
+          "holdout_median_r": 0.0053239865228533745
+        },
+        {
+          "epoch": 18,
+          "holdout_median_r": 0.004806140437722206
+        },
+        {
+          "epoch": 19,
+          "holdout_median_r": 0.006548806093633175
+        },
+        {
+          "epoch": 20,
+          "holdout_median_r": 0.005691593512892723
+        },
+        {
+          "epoch": 21,
+          "holdout_median_r": 0.00609960500150919
+        },
+        {
+          "epoch": 22,
+          "holdout_median_r": 0.006314991507679224
+        },
+        {
+          "epoch": 23,
+          "holdout_median_r": 0.006127901375293732
+        },
+        {
+          "epoch": 24,
+          "holdout_median_r": 0.006274226121604443
+        },
+        {
+          "epoch": 25,
+          "holdout_median_r": 0.006029564421623945
+        },
+        {
+          "epoch": 26,
+          "holdout_median_r": 0.006161374971270561
+        },
+        {
+          "epoch": 27,
+          "holdout_median_r": 0.0060813031159341335
+        },
+        {
+          "epoch": 28,
+          "holdout_median_r": 0.005872846581041813
+        },
+        {
+          "epoch": 29,
+          "holdout_median_r": 0.006403747014701366
+        }
+      ]
+    }
+  },
+  "verdict": "rejected",
+  "peak_gpu_allocated_gib": 3.5044045448303223,
+  "eeg_files_opened": 70
+}

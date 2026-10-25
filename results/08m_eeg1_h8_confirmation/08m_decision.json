@@ -1,0 +1,126 @@
+{
+  "people": 24,
+  "failed": {},
+  "eeg_files_opened": 92,
+  "conditions": {
+    "k": {
+      "contrasts": {
+        "avg_sources - own_ridge": {
+          "mean": 0.05039360801560855,
+          "lower": 0.03131809967200683,
+          "upper": 0.06946911635921027,
+          "positive": 22
+        },
+        "avg_sources - own_ridge_oc": {
+          "mean": 0.06127697625438985,
+          "lower": 0.0422308376217177,
+          "upper": 0.08032311488706201,
+          "positive": 23
+        },
+        "gu_window - own_ridge": {
+          "mean": 0.05481853981910148,
+          "lower": 0.039166509684297496,
+          "upper": 0.07047056995390547,
+          "positive": 23
+        },
+        "gu_window - own_ridge_oc": {
+          "mean": 0.06570190805788279,
+          "lower": 0.04987523728012475,
+          "upper": 0.08152857883564082,
+          "positive": 23
+        }
+      },
+      "verdict": "supported",
+      "method_means": {
+        "avg_sources|250": 0.1721221297715528,
+        "avg_sources|500": 0.17290092187793182,
+        "gu_window|250": 0.17372111169801985,
+        "gu_window|500": 0.18015180355845062,
+        "own_ridge|250": 0.11104878465457434,
+        "own_ridge|500": 0.13318705096369318,
+        "own_ridge_oc|250": 0.09773734837370122,
+        "own_ridge_oc|500": 0.12473175076700367
+      }
+    },
+    "2000": {
+      "contrasts": {
+        "avg_sources - own_ridge": {
+          "mean": 0.050871715307093134,
+          "lower": 0.031648115468685276,
+          "upper": 0.07009531514550099,
+          "positive": 22
+        },
+        "avg_sources - own_ridge_oc": {
+          "mean": 0.062353109435424214,
+          "lower": 0.04309096028872074,
+          "upper": 0.08161525858212769,
+          "positive": 23
+        },
+        "gu_window - own_ridge": {
+          "mean": 0.05570058588974741,
+          "lower": 0.039561639904448526,
+          "upper": 0.0718395318750463,
+          "positive": 23
+        },
+        "gu_window - own_ridge_oc": {
+          "mean": 0.0671819800180785,
+          "lower": 0.05066321247920266,
+          "upper": 0.08370074755695434,
+          "positive": 23
+        }
+      },
+      "verdict": "supported",
+      "method_means": {
+        "avg_sources|250": 0.17381861470517365,
+        "avg_sources|500": 0.17381861470517365,
+        "gu_window|250": 0.1760195028034884,
+        "gu_window|500": 0.1812754677721675,
+        "own_ridge|250": 0.11225591127645053,
+        "own_ridge|500": 0.1336378875197105,
+        "own_ridge_oc|250": 0.09790077265774204,
+        "own_ridge_oc|500": 0.12503023788175685
+      }
+    },
+    "all": {
+      "contrasts": {
+        "avg_sources - own_ridge": {
+          "mean": 0.050963239959479156,
+          "lower": 0.031637206114066924,
+          "upper": 0.07028927380489139,
+          "positive": 22
+        },
+        "avg_sources - own_ridge_oc": {
+          "mean": 0.06267589070972142,
+          "lower": 0.04332539462657024,
+          "upper": 0.0820263867928726,
+          "positive": 23
+        },
+        "gu_window - own_ridge": {
+          "mean": 0.05602215212747066,
+          "lower": 0.03971430890118009,
+          "upper": 0.07232999535376122,
+          "positive": 23
+        },
+        "gu_window - own_ridge_oc": {
+          "mean": 0.06773480287771291,
+          "lower": 0.051017725363699154,
+          "upper": 0.08445188039172667,
+          "positive": 23
+        }
+      },
+      "verdict": "supported",
+      "method_means": {
+        "avg_sources|250": 0.17454023236687166,
+        "avg_sources|500": 0.17454023236687166,
+        "gu_window|250": 0.17697109881757225,
+        "gu_window|500": 0.18222719025215406,
+        "own_ridge|250": 0.11284813402962364,
+        "own_ridge|500": 0.13430585078516133,
+        "own_ridge_oc|250": 0.09835043789021182,
+        "own_ridge_oc|500": 0.12537824542408865
+      }
+    }
+  },
+  "primary_verdict": "supported",
+  "t_critical": 2.8862637830317817
+}
